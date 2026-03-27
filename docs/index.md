@@ -4,6 +4,9 @@ layout: "home"
 staff:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white 
+maintainer: 
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white 
 created_date: 2024-11-21
 permalink: "/"  #! Remove this if not the homepage
 ---
@@ -56,4 +59,4 @@ Downloading CityEngine
 
     <img src='{{ '/assets/images/image_14.png' | relative_url }}' alt='Return to CityEngine. You should now be signed in.' title='' width='1917' height='848' />
 
-Discipline: [Architecture, Landscape & Design](https://mdl.library.utoronto.ca/technique/mapping) | Technique: [Mapping]https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis), [Installation](https://mdl.library.utoronto.ca/technique/installation) | Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis)
+Discipline: [Architecture, Landscape & Design](https://mdl.library.utoronto.ca/technique/mapping) | Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis), [Installation](https://mdl.library.utoronto.ca/technique/installation) | Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis)
