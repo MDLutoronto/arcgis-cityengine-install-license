@@ -23,7 +23,7 @@ Downloading CityEngine
     <img src='{{ '/assets/images/1_4.png' | relative_url }}' alt='Choose a location to extract the files' title='' width='556' height='431' />
 4. With the 'Launch the setup program' option toggled on, click Close.
 
-    <img src='{{ '/assets/images/2_3.png' | relative_url }}' alt='With the 'Launch the setup program' option toggled on, click Close.' title='' width='549' height='429' />
+    <img src='{{ '/assets/images/2_3.png' | relative_url }}' alt="With the 'Launch the setup program' option toggled on, click Close." title='' width='549' height='429' />
 5. Go through the installer steps and click Install.
 
     <img src='{{ '/assets/images/3_3.png' | relative_url }}' alt='Go through the installer steps and click Install.' title='' width='497' height='376' />
@@ -32,16 +32,16 @@ Downloading CityEngine
     <img src='{{ '/assets/images/4_2.png' | relative_url }}' alt='Click Finish.' title='' width='502' height='380' />
 7. ArcGIS Administrator should launch. If it doesn't, launch it from the Windows Start Menu. Make sure the license type is set to CityEngine Named User. Click OK.
 
-    <img src='{{ '/assets/images/5_2.png' | relative_url }}' alt='ArcGIS Administrator should launch. If it doesn't, launch it from the Windows Start Menu. Make sure the license type is set to CityEngine Named User. Click OK.' title='' width='668' height='516' />
+    <img src='{{ '/assets/images/5_2.png' | relative_url }}' alt="ArcGIS Administrator should launch. If it doesn't, launch it from the Windows Start Menu. Make sure the license type is set to CityEngine Named User. Click OK." title='' width='668' height='516' />
 8. Launch CityEngine from the Start Menu.
 
     <img src='{{ '/assets/images/6_2.png' | relative_url }}' alt='Launch CityEngine from the Start Menu.' title='' width='780' height='794' />
 9. Click Sign in using browser (note: at the time of writing, there's a glitch in the software requiring users to log in this way rather than using the main sign-in form.)
 
-    <img src='{{ '/assets/images/7_1.png' | relative_url }}' alt='Click Sign in using browser (note: at the time of writing, there's a glitch in the software requiring users to log in this way rather than using the main sign-in form.)' title='' width='708' height='513' />
+    <img src='{{ '/assets/images/7_1.png' | relative_url }}' alt="Click Sign in using browser (note: at the time of writing, there's a glitch in the software requiring users to log in this way rather than using the main sign-in form.)" title='' width='708' height='513' />
 10. Your web browser will open and display a login form. Choose Your ArcGIS organization's URL.
 
-    <img src='{{ '/assets/images/image_10.png' | relative_url }}' alt='Your web browser will open and display a login form. Choose Your ArcGIS organization's URL.' title='' width='575' height='674' />
+    <img src='{{ '/assets/images/image_10.png' | relative_url }}' alt="Your web browser will open and display a login form. Choose Your ArcGIS organization's URL." title='' width='575' height='674' />
 
 11. Input utoronto. Click continue.
 
