@@ -1,6 +1,7 @@
 ---
 title: "Downloading, Installing, and Licensing ArcGIS CityEngine"
 layout: "home"
+description: This tutorial goes over how to download, install, and license ArcGIS CityEngine with your UTORid.
 staff:
     - name: Cole White
       link: https://library.utoronto.ca/staff/cole-white 
