@@ -58,5 +58,3 @@ Downloading CityEngine
 14. Return to CityEngine. You should now be signed in.
 
     <img src='{{ '/assets/images/image_14.png' | relative_url }}' alt='Return to CityEngine. You should now be signed in.' title='' width='1917' height='848' />
-
-Discipline: [Architecture, Landscape & Design](https://mdl.library.utoronto.ca/technique/mapping) | Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis), [Installation](https://mdl.library.utoronto.ca/technique/installation) | Tools: [ArcGIS](https://mdl.library.utoronto.ca/tools/arcgis)
