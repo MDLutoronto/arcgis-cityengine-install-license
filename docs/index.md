@@ -58,3 +58,7 @@ Downloading CityEngine
 14. Return to CityEngine. You should now be signed in.
 
     <img src='{{ '/assets/images/image_14.png' | relative_url }}' alt='Return to CityEngine. You should now be signed in.' title='' width='1917' height='848' />
+
+
+Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis), [Installation](https://mdlutoronto.github.io/tutorials-search/?technique=Installation) | Tools: [ArcGIS](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS)
+
